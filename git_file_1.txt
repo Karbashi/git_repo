@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-git
-=======
-GitHUB
->>>>>>> Updated file 1
+GItHub
